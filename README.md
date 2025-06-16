@@ -7,7 +7,7 @@ Auto-fetch data from CPW API and build your product on top.
 1. Use this template: Click "Use this template" button above
 2. Subscribe to API: Go to [CPW API](https://rapidapi.com/CPWatch/api/cpw-tracker) and subscribe to `Basic` plan (100 free requests/month)
 3. Add API key: Go to Settings → Secrets → Actions, add `RAPIDAPI_KEY`
-4. ustomize data source: Edit [`scripts/api-call.js`](scripts/api-call.js) to change what you track
+4. Сustomize data source: Edit [`scripts/api-call.js`](scripts/api-call.js) to change what you track
 5. Build your product: Use the auto-updating [`data/events.json`](data/events.json) however you want
 
 ### What It Does
