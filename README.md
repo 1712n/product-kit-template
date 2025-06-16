@@ -38,4 +38,4 @@ startTime.setDate(startTime.getDate() - 1)  // Last 24 hours
 Use the event data to build alert systems, monitoring dashboards, notification tools, research platforms, or whatever problem you're interested in.
 
 > [!NOTE]
-> The [workflow file](.github/workflows/deploy.yml) includes commented examples for GitHub Pages deployment, Twitter integration, and Discord webhooks. Uncomment what you need.
+> The [workflow file](.github/workflows/deploy.yml) includes commented examples for GitHub Pages deployment and social media integration.
