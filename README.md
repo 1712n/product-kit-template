@@ -12,7 +12,7 @@ Auto-fetch data from CPW API and build your product on top.
 
 ### What It Does
 
-- Monitors financial industry channels for catastrophic event signals
+- Monitors industry chatter for catastrophic event signals
 - Fetches fresh data weekly (configurable schedule)
 - Saves results to [`data/events.json`](data/events.json)
 - Provides foundation for early detection tools
