@@ -1,9 +1,9 @@
 [
   {
-    "timestamp": "2025-06-21T15:13:55Z",
-    "entities": "Kraken",
-    "topic": "cyberattack",
+    "entities": "financial custodians",
+    "eventSummary": "An FBI warning has been issued regarding a surge in 2FA bypass attacks. Additionally, a cybersecurity firm reports that hackers are spying on Android phones in real-time, targeting over 500 bank, crypto, and payment apps to steal sensitive data. There are also reports of suspicious transactions totaling $1.67 million USDC through Coinbase, and a user reported being a victim of a cryptocurrency scam involving 6164 USDT transferred to an attacker's wallet. Furthermore, there are multiple user reports of issues with Coinbase accounts, including being logged out, rejected devices, and inability to reset passwords, as well as reports of scammers on platforms like Binance and CoinMarketCap. A data breach incident exposed highly sensitive information of 479,261 people, leading to a $5,000 payout for victims.\nSources:\n- https://www.forbes.com/sites/daveywinder/2025/06/28/fbi-warning-issued-as-2fa-bypass-attacks-surge---act-now/\n- https://cryptopanic.com/news/22905625/Hackers-Spying-on-Android-Phones-in-Real-Time-Targeting-500-Bank-Crypto-and-Payment-Apps-To-Steal-Sensitive-Data-Cybersecurity-Firm\n- https://cryptopanic.com/news/22901708/Suspicious-Transactions-Totaling-167-Million-USDC-Through-Coinbase",
     "industry": "finance",
-    "eventSummary": "Kraken is experiencing internal risk control triggers and compliance-related withdrawal rejections due to unusual account activity patterns. Multiple users report difficulties connecting to Kraken's mobile apps and pending withdrawals for over two days, indicating potential operational disruptions possibly linked to a cyberattack.\nSources:\n- https://t.me/kraken_exchange_official\n- https://status.kraken.com/incidents/mvxcxggzr92k\n- https://www.reddit.com/r/CoinBase/comments/1lh3j5c/coinbase_withholding_access_to_funds/"
+    "timestamp": "2025-06-28T16:21:05Z",
+    "topic": "cyberattack"
   }
 ]
