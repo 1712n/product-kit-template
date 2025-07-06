@@ -1,9 +1,23 @@
 [
   {
     "entities": "financial custodians",
-    "eventSummary": "An FBI warning has been issued regarding a surge in 2FA bypass attacks. Additionally, a cybersecurity firm reports that hackers are spying on Android phones in real-time, targeting over 500 bank, crypto, and payment apps to steal sensitive data. There are also reports of suspicious transactions totaling $1.67 million USDC through Coinbase, and a user reported being a victim of a cryptocurrency scam involving 6164 USDT transferred to an attacker's wallet. Furthermore, there are multiple user reports of issues with Coinbase accounts, including being logged out, rejected devices, and inability to reset passwords, as well as reports of scammers on platforms like Binance and CoinMarketCap. A data breach incident exposed highly sensitive information of 479,261 people, leading to a $5,000 payout for victims.\nSources:\n- https://www.forbes.com/sites/daveywinder/2025/06/28/fbi-warning-issued-as-2fa-bypass-attacks-surge---act-now/\n- https://cryptopanic.com/news/22905625/Hackers-Spying-on-Android-Phones-in-Real-Time-Targeting-500-Bank-Crypto-and-Payment-Apps-To-Steal-Sensitive-Data-Cybersecurity-Firm\n- https://cryptopanic.com/news/22901708/Suspicious-Transactions-Totaling-167-Million-USDC-Through-Coinbase",
+    "eventSummary": "A bank insider allegedly forged names and used fake withdrawal slips to drain $75,000 from eight customer accounts. This internal fraud incident poses a risk to financial custodians and customer trust.\nSources:\n- https://cryptopanic.com/news/23066179/Bank-Insider-Reportedly-Forges-Names-and-Fills-Out-Fake-Withdrawal-Slips-Drains-75000-From-Accounts-of-Eight-Customers",
     "industry": "finance",
-    "timestamp": "2025-06-28T16:21:05Z",
+    "timestamp": "2025-07-06T00:05:27Z",
+    "topic": "cyberattack"
+  },
+  {
+    "entities": "financial custodians",
+    "eventSummary": "A Billion-Dollar Bank is reportedly handing out thousands of dollars to a data breach victim after a cybersecurity incident exposed personal information including names, social security numbers, and account details. This incident highlights a significant risk for financial custodians and their clients.\nSources:\n- https://cryptopanic.com/news/23063970/Billion-Dollar-Bank-Handing-Thousands-of-Dollars-To-Data-Breach-Victim-After-Cybersecurity-Incident-Exposed-Names-Social-Security-Numbers-Account-Details",
+    "industry": "finance",
+    "timestamp": "2025-07-05T18:34:33Z",
+    "topic": "cyberattack"
+  },
+  {
+    "entities": "financial custodians",
+    "eventSummary": "Ingram Micro experienced an outage attributed to a SafePay ransomware attack. This event underscores the vulnerability of service providers within the financial ecosystem to ransomware.\nSources:\n- https://twitter.com/50026664/status/1941527257182306730",
+    "industry": "finance",
+    "timestamp": "2025-07-05T15:59:04Z",
     "topic": "cyberattack"
   }
 ]
