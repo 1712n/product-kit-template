@@ -1,23 +1,44 @@
 [
   {
-    "entities": "financial custodians",
-    "eventSummary": "A bank insider allegedly forged names and used fake withdrawal slips to drain $75,000 from eight customer accounts. This internal fraud incident poses a risk to financial custodians and customer trust.\nSources:\n- https://cryptopanic.com/news/23066179/Bank-Insider-Reportedly-Forges-Names-and-Fills-Out-Fake-Withdrawal-Slips-Drains-75000-From-Accounts-of-Eight-Customers",
+    "entities": "Gemini",
+    "eventSummary": "Gemini crypto deposits are temporarily unavailable.",
     "industry": "finance",
-    "timestamp": "2025-07-06T00:05:27Z",
+    "timestamp": "2025-07-13T05:07:31Z",
+    "topic": "cyberattack"
+  },
+  {
+    "entities": "Coinbase",
+    "eventSummary": "Users are reporting issues with logging into their Coinbase accounts and declined refund transactions.",
+    "industry": "finance",
+    "timestamp": "2025-07-13T04:04:46Z",
     "topic": "cyberattack"
   },
   {
     "entities": "financial custodians",
-    "eventSummary": "A Billion-Dollar Bank is reportedly handing out thousands of dollars to a data breach victim after a cybersecurity incident exposed personal information including names, social security numbers, and account details. This incident highlights a significant risk for financial custodians and their clients.\nSources:\n- https://cryptopanic.com/news/23063970/Billion-Dollar-Bank-Handing-Thousands-of-Dollars-To-Data-Breach-Victim-After-Cybersecurity-Incident-Exposed-Names-Social-Security-Numbers-Account-Details",
+    "eventSummary": "A new banking malware has impacted over 50,000 Android users in the US and Canada within six days.",
     "industry": "finance",
-    "timestamp": "2025-07-05T18:34:33Z",
+    "timestamp": "2025-07-12T18:11:07Z",
     "topic": "cyberattack"
   },
   {
     "entities": "financial custodians",
-    "eventSummary": "Ingram Micro experienced an outage attributed to a SafePay ransomware attack. This event underscores the vulnerability of service providers within the financial ecosystem to ransomware.\nSources:\n- https://twitter.com/50026664/status/1941527257182306730",
+    "eventSummary": "A bank insider allegedly stole $477,000 from 12 customer accounts without authorization.",
     "industry": "finance",
-    "timestamp": "2025-07-05T15:59:04Z",
+    "timestamp": "2025-07-12T18:11:07Z",
+    "topic": "cyberattack"
+  },
+  {
+    "entities": "financial custodians",
+    "eventSummary": "Senator Hassan is pushing for a crackdown on fraud and AI-driven scams, particularly those affecting US banks and credit unions.",
+    "industry": "finance",
+    "timestamp": "2025-07-12T15:05:43Z",
+    "topic": "cyberattack"
+  },
+  {
+    "entities": "Nexo",
+    "eventSummary": "A user reported a strange duplicate transaction on the Polygon network after an ETH transfer.",
+    "industry": "finance",
+    "timestamp": "2025-07-12T13:42:47Z",
     "topic": "cyberattack"
   }
 ]
