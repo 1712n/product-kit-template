@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "entities": "financial custodians",
+    "eventSummary": "CIFAS warns that 200,000 potential victims have been identified as malware disguised as legitimate apps are cracking bank accounts.\nSources:\n- https://cryptopanic.com/news/23903780/200000-Potential-Victims-Identified-As-Malware-Disguised-As-Legitimate-Apps-Crack-Bank-Accounts-Warns-CIFAS",
+    "industry": "finance",
+    "timestamp": "2025-08-03T10:19:25Z",
+    "topic": "cyberattack"
+  },
+  {
+    "entities": "financial custodians",
+    "eventSummary": "Coinbase is reportedly linked to a customer data leak in India.\nSources:\n- https://news.google.com/rss/articles/CBMiogFBVV95cUxOMlR5RzRmSjNVcFlKb1EzU0RWa2Q5NW5xNTBfYmNxcGJ2Z0szYlQ0SFRYOTZ2cVU4alhJWkRrZHIzOHFjQ0lyUk1kT3FpQ0M5YjlpQmRLNFVHeWJZcEdGaElPVW10Zm5mT2xFMHVHUzlmbUNmOTd5bTRpdE0yWER2eXVGc29ZeGNsV2NKZHo1S1hDUzBmWDR2UWdqc24xZEpHOXc?oc=5",
+    "industry": "finance",
+    "timestamp": "2025-08-02T21:19:12Z",
+    "topic": "cyberattack"
+  },
+  {
+    "entities": "financial custodians",
+    "eventSummary": "A massive data breach has potentially exposed Social Security Numbers, Driver’s License Numbers, and addresses of 68,587 Americans at a financial firm.\nSources:\n- https://cryptopanic.com/news/23887906/Social-Security-Numbers-Drivers-License-Numbers-and-Addresses-of-68587-Americans-Potentially-Exposed-As-Massive-Data-Breach-Hits-Financial-Firm",
+    "industry": "finance",
+    "timestamp": "2025-08-02T13:11:07Z",
+    "topic": "cyberattack"
+  }
+]
