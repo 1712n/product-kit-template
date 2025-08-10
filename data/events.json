@@ -1,23 +1,23 @@
 [
   {
-    "entities": "financial custodians",
-    "eventSummary": "CIFAS warns that 200,000 potential victims have been identified as malware disguised as legitimate apps are cracking bank accounts.\nSources:\n- https://cryptopanic.com/news/23903780/200000-Potential-Victims-Identified-As-Malware-Disguised-As-Legitimate-Apps-Crack-Bank-Accounts-Warns-CIFAS",
+    "entities": "Firefox",
+    "eventSummary": "Dozens of fake wallet add-ons were discovered on Firefox's official stores, designed to steal seed phrases, indicating a cyberattack targeting users through malicious browser extensions.",
     "industry": "finance",
-    "timestamp": "2025-08-03T10:19:25Z",
+    "timestamp": "2025-08-10T09:03:01Z",
     "topic": "cyberattack"
   },
   {
-    "entities": "financial custodians",
-    "eventSummary": "Coinbase is reportedly linked to a customer data leak in India.\nSources:\n- https://news.google.com/rss/articles/CBMiogFBVV95cUxOMlR5RzRmSjNVcFlKb1EzU0RWa2Q5NW5xNTBfYmNxcGJ2Z0szYlQ0SFRYOTZ2cVU4alhJWkRrZHIzOHFjQ0lyUk1kT3FpQ0M5YjlpQmRLNFVHeWJZcEdGaElPVW10Zm5mT2xFMHVHUzlmbUNmOTd5bTRpdE0yWER2eXVGc29ZeGNsV2NKZHo1S1hDUzBmWDR2UWdqc24xZEpHOXc?oc=5",
+    "entities": "Coinbase",
+    "eventSummary": "A user reported receiving a call from Coinbase regarding an 'external wallet connected' which attempted to bypass 2FA, indicating a potential phishing or social engineering cyberattack targeting Coinbase users.",
     "industry": "finance",
-    "timestamp": "2025-08-02T21:19:12Z",
+    "timestamp": "2025-08-09T22:20:38Z",
     "topic": "cyberattack"
   },
   {
-    "entities": "financial custodians",
-    "eventSummary": "A massive data breach has potentially exposed Social Security Numbers, Driver’s License Numbers, and addresses of 68,587 Americans at a financial firm.\nSources:\n- https://cryptopanic.com/news/23887906/Social-Security-Numbers-Drivers-License-Numbers-and-Addresses-of-68587-Americans-Potentially-Exposed-As-Massive-Data-Breach-Hits-Financial-Firm",
+    "entities": "Wells Fargo, JPMorgan Chase, US Bank",
+    "eventSummary": "Scammers have drained over $100,000 from bank accounts, with police indicating that Zelle, Wells Fargo, JPMorgan Chase, US Bank, and Bitcoin were targeted. This suggests a cyberattack or scam affecting financial institutions and their customers.\nSources:\n- https://news.google.com/rss/articles/CBMiggJBVV95cUxQUFpVdWRidkpTVHZIbVBJUHMwWDZ5ajlZWDdvc0NfYTdtR2lMVV9QdTFqbUpSUUhnak5zdlU5eXM0dDVmZExIS2h4WlFIN0wyLTROU1VISXFhaHFvZHE3QUpsN2JTUG4ydkVOY1hhTVR2YV91TjlHMHd1d2FLRUVwbGxwcUt6ckVqdWpfRTVWenJMdVlwVjQtaXBSSkhTeGw2T2IyZktUUFUxeXItVUduZ3hqUG1LWGEtWmpOWHNwVUEzZTNsUkZOSURrOGU1WVZDemkxajNVcGlwd3BtTlFwVG9oU2RWbWFucVowY19zcGxUZlVPUXVjVFJKei1xNElxTHfSAYcCQVVfeXFMUDJsTDhFY2F5ZUU2Y2x4YkZ1YkQ4WDFONFZzODZRYkVtZy1SalA5NWRsOUpMRGx5aF9NRW0wZVJsWDllbjZVOURuNFhPMVc5cldDRWhUcmgwSEs5ZTNScTAyM3pNcVBVdjRXdUJjVU00VU9JTm5nU3RNMklGVW95dU9zRVpjUkV4WG1Kc1hHc2tpNDBCRnNfN0N5NFo2ZkhDbFRRWEVsME43ZFAwczlybHJpRnpmMWswc2VfQlYtYmlWLUVzRVlBbWRpTFZQclo3VjNMdUlKVFBnMmFoQ21OcTRCMFNIYm5HVjB5OXBkdEN4WGt0aVEyS0JmcEhrQjFaN2NIMkZFMjA?oc=5\n- https://cryptopanic.com/news/24068781/Bank-Customers-Warned-As-Scammers-Drain-Over-100000-From-Accounts-Police-Say-Zelle-Wells-Fargo-JPMorgan-Chase-US-Bank-and-Bitcoin-Targeted",
     "industry": "finance",
-    "timestamp": "2025-08-02T13:11:07Z",
+    "timestamp": "2025-08-09T17:19:31Z",
     "topic": "cyberattack"
   }
 ]
