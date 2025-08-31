@@ -1,23 +1,16 @@
 [
   {
-    "entities": "Firefox",
-    "eventSummary": "Dozens of fake wallet add-ons were discovered on Firefox's official stores, designed to steal seed phrases, indicating a cyberattack targeting users through malicious browser extensions.",
-    "industry": "finance",
-    "timestamp": "2025-08-10T09:03:01Z",
-    "topic": "cyberattack"
-  },
-  {
+    "timestamp": "Sun Aug 31 2025 04:03:29 GMT+0000 (Coordinated Universal Time)",
     "entities": "Coinbase",
-    "eventSummary": "A user reported receiving a call from Coinbase regarding an 'external wallet connected' which attempted to bypass 2FA, indicating a potential phishing or social engineering cyberattack targeting Coinbase users.",
+    "topic": "cyberattack",
     "industry": "finance",
-    "timestamp": "2025-08-09T22:20:38Z",
-    "topic": "cyberattack"
+    "eventSummary": "Coinbase users are reporting phishing text messages and scam calls, with some also experiencing issues with 2FA authentication and account access.\nSources:\n- https://www.reddit.com/r/CoinBase/comments/1n4bgv6/coinbase_phishing_text/\n- https://www.reddit.com/r/CoinBase/comments/1n4a818/scam_calls_and_encouraging_sucde/\n- https://www.reddit.com/r/CoinBase/comments/1n46d1v/emailcheckcoinbasecom_refuses_to_verify_and_i_my/"
   },
   {
-    "entities": "Wells Fargo, JPMorgan Chase, US Bank",
-    "eventSummary": "Scammers have drained over $100,000 from bank accounts, with police indicating that Zelle, Wells Fargo, JPMorgan Chase, US Bank, and Bitcoin were targeted. This suggests a cyberattack or scam affecting financial institutions and their customers.\nSources:\n- https://news.google.com/rss/articles/CBMiggJBVV95cUxQUFpVdWRidkpTVHZIbVBJUHMwWDZ5ajlZWDdvc0NfYTdtR2lMVV9QdTFqbUpSUUhnak5zdlU5eXM0dDVmZExIS2h4WlFIN0wyLTROU1VISXFhaHFvZHE3QUpsN2JTUG4ydkVOY1hhTVR2YV91TjlHMHd1d2FLRUVwbGxwcUt6ckVqdWpfRTVWenJMdVlwVjQtaXBSSkhTeGw2T2IyZktUUFUxeXItVUduZ3hqUG1LWGEtWmpOWHNwVUEzZTNsUkZOSURrOGU1WVZDemkxajNVcGlwd3BtTlFwVG9oU2RWbWFucVowY19zcGxUZlVPUXVjVFJKei1xNElxTHfSAYcCQVVfeXFMUDJsTDhFY2F5ZUU2Y2x4YkZ1YkQ4WDFONFZzODZRYkVtZy1SalA5NWRsOUpMRGx5aF9NRW0wZVJsWDllbjZVOURuNFhPMVc5cldDRWhUcmgwSEs5ZTNScTAyM3pNcVBVdjRXdUJjVU00VU9JTm5nU3RNMklGVW95dU9zRVpjUkV4WG1Kc1hHc2tpNDBCRnNfN0N5NFo2ZkhDbFRRWEVsME43ZFAwczlybHJpRnpmMWswc2VfQlYtYmlWLUVzRVlBbWRpTFZQclo3VjNMdUlKVFBnMmFoQ21OcTRCMFNIYm5HVjB5OXBkdEN4WGt0aVEyS0JmcEhrQjFaN2NIMkZFMjA?oc=5\n- https://cryptopanic.com/news/24068781/Bank-Customers-Warned-As-Scammers-Drain-Over-100000-From-Accounts-Police-Say-Zelle-Wells-Fargo-JPMorgan-Chase-US-Bank-and-Bitcoin-Targeted",
+    "timestamp": "Sun Aug 31 2025 01:15:16 GMT+0000 (Coordinated Universal Time)",
+    "entities": "Binance",
+    "topic": "cyberattack",
     "industry": "finance",
-    "timestamp": "2025-08-09T17:19:31Z",
-    "topic": "cyberattack"
+    "eventSummary": "Binance has issued a warning about fake support calls targeting its users, advising them to be vigilant against such scams.\nSources:\n- https://news.google.com/rss/articles/CBMif0FVX3lxTE13Ul82M2sxc2FEai1TYVUyN21idXhtZzJaTkpkaVRzb3E3M3Z1d25uNjRoeFNwLU5qTjhiTm1yVHh2SWt2VUppMjZ3VFI5Q0cyeDRPYllFQlctczV0ck16V2JKbGVTaWNWOFpzNUZfT3dUUnZyRXpQVTQtTkVzbWM?oc=5\n- https://www.binance.com/en/blog/security/stay-safe-how-to-detect-and-avoid-account-takeover-attacks-6298893419290063574"
   }
 ]
