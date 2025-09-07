@@ -1,16 +1,9 @@
 [
   {
-    "timestamp": "Sun Aug 31 2025 04:03:29 GMT+0000 (Coordinated Universal Time)",
-    "entities": "Coinbase",
+    "timestamp": "2025-09-06T21:16:53Z",
+    "entities": "financial custodians",
     "topic": "cyberattack",
     "industry": "finance",
-    "eventSummary": "Coinbase users are reporting phishing text messages and scam calls, with some also experiencing issues with 2FA authentication and account access.\nSources:\n- https://www.reddit.com/r/CoinBase/comments/1n4bgv6/coinbase_phishing_text/\n- https://www.reddit.com/r/CoinBase/comments/1n4a818/scam_calls_and_encouraging_sucde/\n- https://www.reddit.com/r/CoinBase/comments/1n46d1v/emailcheckcoinbasecom_refuses_to_verify_and_i_my/"
-  },
-  {
-    "timestamp": "Sun Aug 31 2025 01:15:16 GMT+0000 (Coordinated Universal Time)",
-    "entities": "Binance",
-    "topic": "cyberattack",
-    "industry": "finance",
-    "eventSummary": "Binance has issued a warning about fake support calls targeting its users, advising them to be vigilant against such scams.\nSources:\n- https://news.google.com/rss/articles/CBMif0FVX3lxTE13Ul82M2sxc2FEai1TYVUyN21idXhtZzJaTkpkaVRzb3E3M3Z1d25uNjRoeFNwLU5qTjhiTm1yVHh2SWt2VUppMjZ3VFI5Q0cyeDRPYllFQlctczV0ck16V2JKbGVTaWNWOFpzNUZfT3dUUnZyRXpQVTQtTkVzbWM?oc=5\n- https://www.binance.com/en/blog/security/stay-safe-how-to-detect-and-avoid-account-takeover-attacks-6298893419290063574"
+    "eventSummary": "A cyberattack in Brazil exploited stolen credentials for the Pix real-time payment system, diverting hundreds of millions of dollars. This incident highlights concerns about real-time payment fraud.\nSources:\n- https://www.americanbanker.com/news/brazilian-heist-highlights-real-time-payment-fraud-concerns"
   }
 ]
