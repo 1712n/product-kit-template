@@ -1,16 +1,37 @@
 [
   {
-    "timestamp": "2025-09-21T11:22:30.000Z",
-    "entities": "Coinbase",
-    "topic": "cyberattack",
-    "industry": "finance",
-    "eventSummary": "Coinbase is unveiling a plan to fix customer service after a data breach.\nSources:\n- https://news.google.com/rss/articles/CBMimAFBVV95cUxPMEpoVWFxV2htMEZTOEg0M3ZEWWZSRGp5LVQxWXZpUjhMTncxaFdaZlB4QWg1dncwTF9jRVlieEZlUENOdHhwdktvMzZoQ1BqOEZxaV80Y1JyVHd4NDVMQlRVN3lReUtfZnhpZ2g1eHBkblR1ZFRCNGZFU3ZXRVBhMmRoQmFxNXdNd19pWWJZTEFvTi11MTQzWg?oc=143"
-  },
-  {
-    "timestamp": "2025-09-20T15:47:10.000Z",
+    "timestamp": "2025-09-28T11:21:50Z",
     "entities": "financial custodians",
     "topic": "cyberattack",
     "industry": "finance",
-    "eventSummary": "A bank has warned that 689,000 Americans have been affected by a data breach, with names, Social Security Numbers, and other personal information potentially compromised.\nSources:\n- https://cryptopanic.com/news/25475728/689000-Americans-Affected-by-Data-Breach-Bank-Warns-Names-Social-Security-Numbers-and-More-Potentially-Compromised"
+    "eventSummary": "There is a report that crypto wallets leak IP addresses.\nSources:\n- https://www.reddit.com/r/CryptoMars/comments/1nsk5ls/fact_wallets_leak_your_ip/"
+  },
+  {
+    "timestamp": "2025-09-28T07:10:26Z",
+    "entities": "financial custodians",
+    "topic": "cyberattack",
+    "industry": "finance",
+    "eventSummary": "Coinbase users are reporting platform security issues.\nSources:\n- https://www.reddit.com/r/CoinBase/comments/1nshgl2/coinbase_platform_security_issues/"
+  },
+  {
+    "timestamp": "2025-09-28T06:04:05Z",
+    "entities": "financial custodians",
+    "topic": "cyberattack",
+    "industry": "finance",
+    "eventSummary": "Users are reporting attempts of phone call scams related to financial platforms.\nSources:\n- https://www.reddit.com/r/binance/comments/1nrtsiw/attempt_of_a_phone_call_scam/"
+  },
+  {
+    "timestamp": "2025-09-28T01:20:04Z",
+    "entities": "financial custodians",
+    "topic": "cyberattack",
+    "industry": "finance",
+    "eventSummary": "A victim lost $78,187 due to a phishing approval signed 623 days ago, highlighting the importance of regularly reviewing and revoking old approvals for wallet security.\nSources:\n- https://twitter.com/1527875389439508481/status/1972109016177447227"
+  },
+  {
+    "timestamp": "2025-09-27T16:27:21Z",
+    "entities": "financial custodians",
+    "topic": "cyberattack",
+    "industry": "finance",
+    "eventSummary": "A bank has issued a data breach alert to its customers after a hacker accessed sensitive personal information.\nSources:\n- https://cryptopanic.com/news/25700184/Bank-Issues-Data-Breach-Alert-To-Customers-After-Hacker-Accesses-Sensitive-Personal-Information"
   }
 ]
