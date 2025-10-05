@@ -1,37 +1,16 @@
 [
   {
-    "timestamp": "2025-09-28T11:21:50Z",
+    "timestamp": "2025-10-04T19:14:27Z",
     "entities": "financial custodians",
     "topic": "cyberattack",
     "industry": "finance",
-    "eventSummary": "There is a report that crypto wallets leak IP addresses.\nSources:\n- https://www.reddit.com/r/CryptoMars/comments/1nsk5ls/fact_wallets_leak_your_ip/"
+    "eventSummary": "Multiple users are reporting receiving suspicious text messages, including phishing attempts and scam withdrawal texts, some impersonating Coinbase. There are also reports of users unable to access 2FA on Coinbase and unauthorized transactions from PayPal accounts.\nSources:\n- https://www.reddit.com/r/CoinBase/comments/1nxqdh2/suspicious_text_message_phishing_attempt/\n- https://www.reddit.com/r/CoinBase/comments/1ny08el/scam_withdrawal_texts_and_im_not_a_coinbase_user/\n- https://www.reddit.com/r/CoinBase/comments/1nxvp5b/anybody_else_get_a_scam_coinbase_text_be_careful/"
   },
   {
-    "timestamp": "2025-09-28T07:10:26Z",
+    "timestamp": "2025-10-04T14:57:58Z",
     "entities": "financial custodians",
     "topic": "cyberattack",
     "industry": "finance",
-    "eventSummary": "Coinbase users are reporting platform security issues.\nSources:\n- https://www.reddit.com/r/CoinBase/comments/1nshgl2/coinbase_platform_security_issues/"
-  },
-  {
-    "timestamp": "2025-09-28T06:04:05Z",
-    "entities": "financial custodians",
-    "topic": "cyberattack",
-    "industry": "finance",
-    "eventSummary": "Users are reporting attempts of phone call scams related to financial platforms.\nSources:\n- https://www.reddit.com/r/binance/comments/1nrtsiw/attempt_of_a_phone_call_scam/"
-  },
-  {
-    "timestamp": "2025-09-28T01:20:04Z",
-    "entities": "financial custodians",
-    "topic": "cyberattack",
-    "industry": "finance",
-    "eventSummary": "A victim lost $78,187 due to a phishing approval signed 623 days ago, highlighting the importance of regularly reviewing and revoking old approvals for wallet security.\nSources:\n- https://twitter.com/1527875389439508481/status/1972109016177447227"
-  },
-  {
-    "timestamp": "2025-09-27T16:27:21Z",
-    "entities": "financial custodians",
-    "topic": "cyberattack",
-    "industry": "finance",
-    "eventSummary": "A bank has issued a data breach alert to its customers after a hacker accessed sensitive personal information.\nSources:\n- https://cryptopanic.com/news/25700184/Bank-Issues-Data-Breach-Alert-To-Customers-After-Hacker-Accesses-Sensitive-Personal-Information"
+    "eventSummary": "A hacker has attacked a bank's computer network, gaining access to customer files that contain sensitive information such as names and Social Security Numbers.\nSources:\n- https://cryptopanic.com/news/25891206/Hacker-Hits-Banks-Computer-Network-Accesses-Customer-Files-Containing-Names-Social-Security-Numbers-and-More"
   }
 ]
