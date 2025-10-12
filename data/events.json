@@ -1,16 +1,30 @@
 [
   {
-    "timestamp": "2025-10-04T19:14:27Z",
-    "entities": "financial custodians",
+    "timestamp": "2025-10-12T09:08:13.000Z",
+    "entities": "Bangladesh cyber squad, RED WOLF CYBER TEAM",
     "topic": "cyberattack",
     "industry": "finance",
-    "eventSummary": "Multiple users are reporting receiving suspicious text messages, including phishing attempts and scam withdrawal texts, some impersonating Coinbase. There are also reports of users unable to access 2FA on Coinbase and unauthorized transactions from PayPal accounts.\nSources:\n- https://www.reddit.com/r/CoinBase/comments/1nxqdh2/suspicious_text_message_phishing_attempt/\n- https://www.reddit.com/r/CoinBase/comments/1ny08el/scam_withdrawal_texts_and_im_not_a_coinbase_user/\n- https://www.reddit.com/r/CoinBase/comments/1nxvp5b/anybody_else_get_a_scam_coinbase_text_be_careful/"
+    "eventSummary": "A new hacktivist alliance has been announced between Bangladesh cyber squad and RED WOLF CYBER TEAM.\nSources:\n- https://bsky.app/profile/falconfeedsio.bsky.social/post/3m2ydx6exr22m"
   },
   {
-    "timestamp": "2025-10-04T14:57:58Z",
-    "entities": "financial custodians",
+    "timestamp": "2025-10-12T03:59:30.000Z",
+    "entities": "Coinbase",
     "topic": "cyberattack",
     "industry": "finance",
-    "eventSummary": "A hacker has attacked a bank's computer network, gaining access to customer files that contain sensitive information such as names and Social Security Numbers.\nSources:\n- https://cryptopanic.com/news/25891206/Hacker-Hits-Banks-Computer-Network-Accesses-Customer-Files-Containing-Names-Social-Security-Numbers-and-More"
+    "eventSummary": "Users are reporting issues with Coinbase, including being unable to access funds and concerns about fraudulent new user incentive promotions.\nSources:\n- https://www.reddit.com/r/CoinBase/comments/1o40y7p/coinbase_hostage_situation_with_my_money/\n- https://www.reddit.com/r/CoinBase/comments/1o43ed8/fraudulent_new_user_incentive_promo_being/"
+  },
+  {
+    "timestamp": "2025-10-11T21:20:35.000Z",
+    "entities": "Bank-Mobile",
+    "topic": "cyberattack",
+    "industry": "finance",
+    "eventSummary": "A security breach affecting Bank-Mobile has been reported in the US.\nSources:\n- https://www.reddit.com/r/Scams/comments/1o45cmv/us_security_breach_bankmobile/"
+  },
+  {
+    "timestamp": "2025-10-11T17:31:39.000Z",
+    "entities": "Astaroth Banking Trojan, GitHub",
+    "topic": "cyberattack",
+    "industry": "finance",
+    "eventSummary": "The Astaroth Banking Trojan is reportedly harnessing GitHub to steal crypto credentials.\nSources:\n- https://twitter.com/993530753014054912/status/1977064565683679364\n- https://cryptopanic.com/news/26065543/Astaroth-Banking-Trojan-Harnessing-GitHub-to-Steal-Crypto-Credentials"
   }
 ]
