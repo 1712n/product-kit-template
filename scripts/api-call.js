@@ -45,7 +45,6 @@ async function fetchData() {
       // 🔧 CHANGE THESE FOR YOUR USE CASE:
       entities: "financial custodians",    // ← What to track
       topic: "cyberattack",               // ← What topic
-      industry: "finance",                // fixed industry
       startTime,
       endTime
     }),
