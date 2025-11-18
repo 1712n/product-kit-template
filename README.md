@@ -24,8 +24,7 @@ Edit [`scripts/api-call.js`](scripts/api-call.js):
 ```javascript
 // Change these parameters:
 entities: "financial custodians",        // What to monitor
-topic: "cyberattack",                   // Event type (default: "catastrophic event")
-industry: "finance",                    // Fixed to finance
+topic: "cyberattack"                   // Event type (default: "catastrophic event")
 ```
 
 Time range is configurable (max 7 days):
