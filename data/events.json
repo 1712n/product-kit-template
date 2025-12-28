@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "timestamp": "2025-12-27T14:52:08.000Z",
+    "entities": "financial custodians",
+    "topic": "cyberattack",
+    "eventSummary": "The Central Bureau of Investigation (CBI) has arrested two bank officials for their involvement in supporting cybercriminal operations. \nSources:\n- https://cryptopanic.com/news/28293335/CBI-nabs-two-bank-officials-for-aiding-cybercriminal-operations"
+  }
+]
