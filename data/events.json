@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "timestamp": "2026-01-10T18:20:33.000Z",
+    "entities": "financial custodians",
+    "topic": "cyberattack",
+    "eventSummary": "The FBI issued an urgent warning regarding a 'quishing' (QR code phishing) campaign where a hacking group is targeting U.S. entities with malicious emails containing fraudulent QR codes.\nSources:\n- https://www.tomsguide.com/computing/online-security/dont-scan-that-qr-code-fbi-warns-hackers-adding-malicious-qr-links-in-emails"
+  }
+]
