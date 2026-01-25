@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "timestamp": "2026-01-24T20:42:42.000Z",
+    "entities": "financial custodians",
+    "topic": "cyberattack",
+    "eventSummary": "In late December 2025, a cyberattack attributed to the Russian state-sponsored hacking group Sandworm targeted Poland's power grid. The attackers attempted to deploy a new data-wiping malware known as DynoWiper to disrupt electricity distribution and communications between renewable energy installations and operators, though the attempt ultimately failed to cause a blackout.\nSources:\n- https://arstechnica.com/security/2026/01/wiper-malware-targeted-poland-energy-grid-but-failed-to-knock-out-electricity\n- https://bsky.app/profile/bleepingcomputer.com/post/3md77kq2nyc2l"
+  }
+]
