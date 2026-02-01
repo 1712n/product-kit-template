@@ -1,8 +1,14 @@
 [
   {
-    "timestamp": "2026-01-24T20:42:42.000Z",
+    "timestamp": "2026-02-01T06:54:42.000Z",
     "entities": "financial custodians",
     "topic": "cyberattack",
-    "eventSummary": "In late December 2025, a cyberattack attributed to the Russian state-sponsored hacking group Sandworm targeted Poland's power grid. The attackers attempted to deploy a new data-wiping malware known as DynoWiper to disrupt electricity distribution and communications between renewable energy installations and operators, though the attempt ultimately failed to cause a blackout.\nSources:\n- https://arstechnica.com/security/2026/01/wiper-malware-targeted-poland-energy-grid-but-failed-to-knock-out-electricity\n- https://bsky.app/profile/bleepingcomputer.com/post/3md77kq2nyc2l"
+    "eventSummary": "An address poisoning attack resulted in the theft of $12.5 million worth of Ethereum (ETH). This type of attack typically targets users of digital asset custody services by tricking them into sending funds to a malicious address that closely resembles a familiar one.\nSources:\n- https://www.reddit.com/r/Buttcoin/comments/1qseds7/125_million_of_eth_stolen_in_address_poisoning"
+  },
+  {
+    "timestamp": "2026-01-31T17:53:54.000Z",
+    "entities": "financial custodians",
+    "topic": "cyberattack",
+    "eventSummary": "Reports indicate a security incident involving Binance, where an exploit was allegedly carried out on the exchange's end. The breach is described as having occurred despite the development team's precautions, with details of the exploit reportedly shared on the platform's blog.\nSources:\n- https://t.me/GRIFFINai"
   }
 ]
