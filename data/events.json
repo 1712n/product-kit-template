@@ -1,14 +1,32 @@
 [
   {
-    "timestamp": "2026-02-01T06:54:42.000Z",
-    "entities": "financial custodians",
+    "timestamp": "2026-02-08T09:06:17.000Z",
+    "entities": "Signal",
     "topic": "cyberattack",
-    "eventSummary": "An address poisoning attack resulted in the theft of $12.5 million worth of Ethereum (ETH). This type of attack typically targets users of digital asset custody services by tricking them into sending funds to a malicious address that closely resembles a familiar one.\nSources:\n- https://www.reddit.com/r/Buttcoin/comments/1qseds7/125_million_of_eth_stolen_in_address_poisoning"
+    "eventSummary": "A state-sponsored threat actor is executing a complex phishing campaign targeting Signal users in Germany, specifically aiming at high-ranking politicians, military personnel, and journalists.\nSources:\n- https://bsky.app/profile/campuscodi.risky.biz/post/3mecow3ehlc27"
   },
   {
-    "timestamp": "2026-01-31T17:53:54.000Z",
-    "entities": "financial custodians",
+    "timestamp": "2026-02-07T20:54:26.000Z",
+    "entities": "BreachForums",
     "topic": "cyberattack",
-    "eventSummary": "Reports indicate a security incident involving Binance, where an exploit was allegedly carried out on the exchange's end. The breach is described as having occurred despite the development team's precautions, with details of the exploit reportedly shared on the platform's blog.\nSources:\n- https://t.me/GRIFFINai"
+    "eventSummary": "BreachForums is experiencing a potential security compromise, displaying a defacement-style message and a countdown timer alongside leaked personal images.\nSources:\n- https://twitter.com/1972819519807852544/status/2020239756332871796"
+  },
+  {
+    "timestamp": "2026-02-07T16:11:39.000Z",
+    "entities": "Betterment",
+    "topic": "cyberattack",
+    "eventSummary": "Financial custodian Betterment suffered a data breach exposing information of 1.4 million customers. The incident involved a vishing attack against a third-party vendor, identified as Salesforce, to compromise IT support.\nSources:\n- https://bsky.app/profile/alexisrjimenez.bsky.social/post/3mebs22l3w72e"
+  },
+  {
+    "timestamp": "2026-02-07T16:10:52.000Z",
+    "entities": "BridgePay",
+    "topic": "cyberattack",
+    "eventSummary": "Payments platform BridgePay confirmed that a ransomware attack was the cause of a recent service outage.\nSources:\n- https://twitter.com/128484298/status/2020168391521382628"
+  },
+  {
+    "timestamp": "2026-02-07T12:37:11.000Z",
+    "entities": "GitHub",
+    "topic": "cyberattack",
+    "eventSummary": "A large-scale attack is targeting Mac users via GitHub Pages by impersonating various companies to deliver stealer malware.\nSources:\n- https://twitter.com/4827396790/status/2020114616697704471"
   }
 ]
