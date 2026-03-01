@@ -1,8 +1,14 @@
 [
   {
-    "timestamp": "2026-02-14T13:03:44.000Z",
-    "entities": "Figure Technologies",
+    "timestamp": "2026-02-28T20:41:39.000Z",
+    "entities": "Bybit",
     "topic": "cyberattack",
-    "eventSummary": "Fintech firm Figure Technologies suffered a data breach involving the exposure of personal customer details. The incident was attributed to a social-engineering phishing attack targeting an employee, and the data was reportedly leaked by ShinyHunters hackers after the company refused to pay a ransom.\nSources:\n- https://twitter.com/128484298/status/2022772656131473572\n- https://cointelegraph.com/news/figure-technology-data-breach-customer-details-exposed"
+    "eventSummary": "Bybit has identified fraudulent behavior from an appeal applicant and is taking action against the account to maintain trading integrity and asset security.\nSources:\n- https://t.me/bybitukrainian"
+  },
+  {
+    "timestamp": "2026-02-28T12:38:15.000Z",
+    "entities": "GRIFFIN AI",
+    "topic": "cyberattack",
+    "eventSummary": "GRIFFIN AI is facing community criticism for failing to carry out a promised buyback as part of a compensation plan following a hack, while simultaneously withdrawing liquidity without clear explanation.\nSources:\n- https://t.me/GRIFFINai"
   }
 ]
