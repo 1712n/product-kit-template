@@ -1,8 +1,8 @@
 [
   {
-    "timestamp": "2026-03-14T22:46:34.000Z",
-    "entities": "financial custodians",
+    "timestamp": "2026-03-22T04:33:04.000Z",
+    "entities": "Resolv",
     "topic": "cyberattack",
-    "eventSummary": "Reports indicate that Iranian hackers have allegedly threatened to target U.S. financial data, specifically claiming intent to wipe debt and credit score records. This threat surfaces amidst a broader context of Iran-linked cyber activities targeting various international entities.\nSources:\n- https://twitter.com/4874513699/status/2032951549131936079\n- https://twitter.com/41258937/status/2032842690014896623"
+    "eventSummary": "Resolv was targeted in a cyberattack involving an exploit of its USR stablecoin. Analysis indicates an attacker compromised an off-chain signer key or exploit of the service role to mint approximately 80 million USR, with at least $25 million diverted through aggregators due to a lack of on-chain validation between swap requests and minting.\nSources:\n- https://t.me/okxofficial_id\n- https://t.me/crvrussianchat"
   }
 ]
