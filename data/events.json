@@ -1,8 +1,8 @@
 [
   {
-    "timestamp": "2026-03-22T04:33:04.000Z",
-    "entities": "Resolv",
+    "timestamp": "2026-03-28T16:17:33.000Z",
+    "entities": "Bank of America",
     "topic": "cyberattack",
-    "eventSummary": "Resolv was targeted in a cyberattack involving an exploit of its USR stablecoin. Analysis indicates an attacker compromised an off-chain signer key or exploit of the service role to mint approximately 80 million USR, with at least $25 million diverted through aggregators due to a lack of on-chain validation between swap requests and minting.\nSources:\n- https://t.me/okxofficial_id\n- https://t.me/crvrussianchat"
+    "eventSummary": "A man was arrested for attempting to detonate a homemade explosive device outside a Bank of America location in Paris. French counter-terrorism authorities are investigating the incident, which reportedly involved recruitment via Snapchat for a monetary reward.\nSources:\n- https://twitter.com/15392486/status/2037927078754943175"
   }
 ]
