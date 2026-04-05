@@ -1,8 +1,14 @@
 [
   {
-    "timestamp": "2026-03-28T16:17:33.000Z",
-    "entities": "Bank of America",
+    "timestamp": "2026-04-04T19:30:18.000Z",
+    "entities": "Resolv",
     "topic": "cyberattack",
-    "eventSummary": "A man was arrested for attempting to detonate a homemade explosive device outside a Bank of America location in Paris. French counter-terrorism authorities are investigating the incident, which reportedly involved recruitment via Snapchat for a monetary reward.\nSources:\n- https://twitter.com/15392486/status/2037927078754943175"
+    "eventSummary": "Resolv Labs and Chainalysis confirmed a supply chain attack against Resolv. The attacker compromised a third-party contractor's GitHub credentials to access cloud infrastructure and modified the AWS Key Management Service (KMS) access policy. This allowed the attacker to mint 80 million USR tokens through two unauthorized transactions, with 46 million tokens subsequently blacklisted and burned.\nSources:\n- https://t.me/crvrussianchat"
+  },
+  {
+    "timestamp": "2026-04-04T16:04:00.000Z",
+    "entities": "financial custodians",
+    "topic": "cyberattack",
+    "eventSummary": "Reports indicate that Iran is allegedly engaging in cyber warfare against the United States, specifically targeting financial and credit reporting agencies and their records.\nSources:\n- https://twitter.com/21159645/status/2040460385451442583"
   }
 ]
