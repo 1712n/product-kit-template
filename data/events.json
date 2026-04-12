@@ -1,14 +1,8 @@
 [
   {
-    "timestamp": "2026-04-04T19:30:18.000Z",
-    "entities": "Resolv",
-    "topic": "cyberattack",
-    "eventSummary": "Resolv Labs and Chainalysis confirmed a supply chain attack against Resolv. The attacker compromised a third-party contractor's GitHub credentials to access cloud infrastructure and modified the AWS Key Management Service (KMS) access policy. This allowed the attacker to mint 80 million USR tokens through two unauthorized transactions, with 46 million tokens subsequently blacklisted and burned.\nSources:\n- https://t.me/crvrussianchat"
-  },
-  {
-    "timestamp": "2026-04-04T16:04:00.000Z",
+    "timestamp": "2026-04-12T11:48:52.000Z",
     "entities": "financial custodians",
     "topic": "cyberattack",
-    "eventSummary": "Reports indicate that Iran is allegedly engaging in cyber warfare against the United States, specifically targeting financial and credit reporting agencies and their records.\nSources:\n- https://twitter.com/21159645/status/2040460385451442583"
+    "eventSummary": "UK financial regulators, including the Financial Conduct Authority and the Bank of England, are conducting urgent risk assessments for leading banks, insurers, and exchanges regarding cybersecurity vulnerabilities found in Anthropic's latest AI model, Claude Mythos.\nSources:\n- https://www.ft.com/content/ec7bb366-9643-47ce-9909-fc5ad4864ae5"
   }
 ]
