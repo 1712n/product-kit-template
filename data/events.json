@@ -1,8 +1,20 @@
 [
   {
-    "timestamp": "2026-04-12T11:48:52.000Z",
+    "timestamp": "2026-04-18T22:53:13.000Z",
     "entities": "financial custodians",
     "topic": "cyberattack",
-    "eventSummary": "UK financial regulators, including the Financial Conduct Authority and the Bank of England, are conducting urgent risk assessments for leading banks, insurers, and exchanges regarding cybersecurity vulnerabilities found in Anthropic's latest AI model, Claude Mythos.\nSources:\n- https://www.ft.com/content/ec7bb366-9643-47ce-9909-fc5ad4864ae5"
+    "eventSummary": "The Kelp restaking platform suffered a security exploit that resulted in $293 million being drained. The attack caused a 'cross-protocol contagion' affecting at least nine other cryptocurrency protocols, impacting various digital asset custodians and decentralized finance participants.\nSources:\n- https://cointelegraph.com/news/restaking-platform-kelp-exploited-293-million"
+  },
+  {
+    "timestamp": "2026-04-18T21:23:27.000Z",
+    "entities": "financial custodians",
+    "topic": "cyberattack",
+    "eventSummary": "Grinex, a sanctioned cryptocurrency exchange, was targeted in a large-scale cyberattack resulting in the theft of over 1 billion rubles from user wallets. The exchange, acting as a custodian for Russian business and individual funds, attributed the operation to state-backed actors due to the advanced technical footprint used in the exploit.\nSources:\n- https://cryptopotato.com/garantex-successor-grinex-collapses-days-after-coordinated-wallet-exploit"
+  },
+  {
+    "timestamp": "2026-04-18T15:19:50.000Z",
+    "entities": "financial custodians",
+    "topic": "cyberattack",
+    "eventSummary": "A Chinese cyber-espionage group known as Salt Typhoon has reportedly infiltrated critical U.S. telecommunications infrastructure to collect private information on influential individuals. This breach potentially compromises sensitive data transmission for numerous entities, including financial custodians.\nSources:\n- https://www.bbc.com/audio/play/w3ct8m8l\n- https://bsky.app/profile/alexisrjimenez.bsky.social/post/3mjrnnwr3ys2a"
   }
 ]
